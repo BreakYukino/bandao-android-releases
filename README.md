@@ -1,6 +1,6 @@
 # 伴岛 Android
 
-伴岛让小女仆在安卓桌面上播放动画，并支持大小、透明度、播放速度、动作池、台词和手势设置。
+伴岛是一款安卓桌宠陪伴应用，支持蓝毛小女仆与知墨 · Codex 娘。提供桌面互动、角色成长、纪念物、相处故事，以及外观、动作、台词和手势设置。Codex 使用浅灰日光工作室主题，小女仆保留原有海边小屋风格。
 
 本仓库提供 Android 安装包、更新说明和应用内更新清单。最低支持 Android 8.0。
 
@@ -8,7 +8,7 @@
 
 首次使用：进入 [最新版本](https://github.com/BreakYukino/bandao-android-releases/releases/latest)，在附件中下载 `bandao-版本号-debug.apk` 并安装。
 
-已有 0.7.0 或更新版本：打开「伙伴 → 应用更新」，填写以下地址，点「检查更新」：
+已有版本：0.11 起打开「设置 → 应用更新」；0.10 及更早版本打开「伙伴 → 应用更新」。填写以下地址，点「检查更新」：
 
 ```text
 https://github.com/BreakYukino/bandao-android-releases/releases/latest/download/update.json
